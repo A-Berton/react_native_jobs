@@ -1,4 +1,4 @@
-# React native Job application
+# React native job application
 
 Describe briefly what makes your project stand out.
 
