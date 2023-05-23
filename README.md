@@ -1,11 +1,5 @@
 # React native job application
 
-Describe briefly what makes your project stand out.
-
-## Requirements
-
-- List of required tools for this project.
-
 ## Installation
 
 1. Clone or download project.
